@@ -103,7 +103,7 @@ function completeTask() {
 
     listHolder1.append(division);
     division.append(header);
-    division.append(btn1);
+    // division.append(btn1);
     division.append(btn2);
 
     btn2.onclick = deleteTask;
